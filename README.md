@@ -2,7 +2,7 @@
 <img alt="next-level-week" src="https://lh3.googleusercontent.com/pw/ACtC-3dHcZRifZL5dOUgoI9Pd9fbvok7__lEVWhbXiJ-sfIDVBeld2JnzE0kImGwfOMygq6B0Hm-7ooWDTGe31uFJHwAD9WrTRZU7nz4PVAxcbycFoiPytmhiJP2cLI46ckyfe_hpp1aWqZa3J8sn70nd48p=w235-h214-no?authuser=0" />
  </h1>
 
-## Next Level Week
+## :memo: Next Level Week
 Foi desenvolvido durante essa semana a aplicação **Ecoleta** .
  **Nlw** é um evento proporcionado pela **RocketSeat**. Uma semana inesquecível com muito código e aprendizado.
  
@@ -33,14 +33,14 @@ A aplicação faz a conexão de empresas com pessoas que desejam descartar o lix
   - **[ts-node][tsnode]**
   
   
- ### Website (ReactJS + TypeScript)
+ ### :react: Website (ReactJS + TypeScript)
  - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
   - **[Axios][axios]**
   - **[Leaflet][leaflet]**
   - **[React Leaflet][react_leaflet]**
   
- - App Mobile (React Native + TypeScript)
+ ### App Mobile (React Native + TypeScript)
  
  #### **Utilitários**
 
