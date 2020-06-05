@@ -4,7 +4,7 @@ Foi desenvolvido durante essa semana a aplicação **Ecoleta** .
  **Nlw** é um evento proporcionado pela **RocketSeat**. Uma semana inesquecível com muito código e aprendizado.
  
 
- ![enter image description here](https://icon-icons.com/icons2/1448/PNG/32/42598rocket_99004.png)    **Objetivo**   
+## Objetivo   
  
 O projeto tem como objetivo solucionar problemas no descarte inadequado de resíduos orgânicos, pilhas e baterias, resíduos eletrônicos, papel e papelão, lâmpadas e óleo de cozinha .
 A aplicação faz a conexão de empresas com pessoas que desejam descartar o lixo adequadamente, facilitando assim o processo de reciclagem e reutilização.
