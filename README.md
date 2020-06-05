@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="next-level-week" src="https://lh3.googleusercontent.com/pw/ACtC-3dHcZRifZL5dOUgoI9Pd9fbvok7__lEVWhbXiJ-sfIDVBeld2JnzE0kImGwfOMygq6B0Hm-7ooWDTGe31uFJHwAD9WrTRZU7nz4PVAxcbycFoiPytmhiJP2cLI46ckyfe_hpp1aWqZa3J8sn70nd48p=w235-h214-no?authuser=0"   />
+<img alt="next-level-week" src="https://lh3.googleusercontent.com/pw/ACtC-3dHcZRifZL5dOUgoI9Pd9fbvok7__lEVWhbXiJ-sfIDVBeld2JnzE0kImGwfOMygq6B0Hm-7ooWDTGe31uFJHwAD9WrTRZU7nz4PVAxcbycFoiPytmhiJP2cLI46ckyfe_hpp1aWqZa3J8sn70nd48p=w235-h214-no?authuser=0" />
  </h1>
 
 ## Next Level Week
@@ -16,7 +16,7 @@ A aplicação faz a conexão de empresas com pessoas que desejam descartar o lix
  
  <div align="center">
 
-![GitHub issues][github_issues_badge] ![GitHub][repository_license_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+![GitHub issues][github_issues_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
@@ -25,14 +25,15 @@ A aplicação faz a conexão de empresas com pessoas que desejam descartar o lix
 
 
 ### :computer: Tecnologias Utilizada
- - Server (NodeJS + TypeScript)
+ ### Server (NodeJS + TypeScript)
  - **[Express][express]**
   - **[CORS][cors]**
   - **[KnexJS][knex]**
   - **[SQLite][sqlite3]**
   - **[ts-node][tsnode]**
   
- - Website (ReactJS + TypeScript)
+  
+ ### Website (ReactJS + TypeScript)
  - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
   - **[Axios][axios]**
@@ -64,8 +65,6 @@ A aplicação faz a conexão de empresas com pessoas que desejam descartar o lix
 <!-- Badges -->
 
 [github_issues_badge]: https://img.shields.io/github/issues/x0n4d0/ecoleta?color=green
-
-[repository_license_badge]: https://img.shields.io/github/license/x0n4d0/ecoleta
 
 [node_version_badge]: https://img.shields.io/badge/node-12.17.0-green
 
