@@ -33,7 +33,7 @@ A aplicação faz a conexão de empresas com pessoas que desejam descartar o lix
   - **[ts-node][tsnode]**
   
   
- ### :react: Website (ReactJS + TypeScript)
+ ### Website (ReactJS + TypeScript)
  - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
   - **[Axios][axios]**
@@ -42,7 +42,7 @@ A aplicação faz a conexão de empresas com pessoas que desejam descartar o lix
   
  ### App Mobile (React Native + TypeScript)
  
- #### **Utilitários**
+ ### **Ferramentas utilizadas**
 
 - Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)</kbd>**
 - API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>** 
@@ -50,7 +50,7 @@ A aplicação faz a conexão de empresas com pessoas que desejam descartar o lix
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
 - Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
 - Commit Conventional: **[Commitlint][commitlint]**
-- Teste de API: **[Insomnia][insomnia]**
+- Debbug API: **[Insomnia][insomnia]**
 - Ícones: **[Feather Icons][feather_icons]**
 - Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
 
